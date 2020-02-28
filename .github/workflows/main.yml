@@ -2,6 +2,10 @@ name: Release Drafter
 
 on:
   push:
+    branches:
+      - x.x.0
+      - release
+      - master
 
 jobs:
   update_release_draft:
