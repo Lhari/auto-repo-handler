@@ -5,3 +5,4 @@ add release branch
 
 more random text
 automerge
+automerge to release
