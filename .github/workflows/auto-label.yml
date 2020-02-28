@@ -1,0 +1,9 @@
+- name: Auto label
+  uses: Renato66/auto-label@v2.0.1
+  with:
+    # github token for the repository
+    repo-token: 
+    # 
+    ignore-comments: # optional
+    # 
+    labels-not-allowed: # optional
