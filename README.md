@@ -8,3 +8,4 @@ automerge
 automerge to release
 automerge test with mass selector
 new change to readme.md
+new line
